@@ -1,6 +1,6 @@
 {
-  "name": "youtube-music-ts-api",
-  "version": "1.6.0",
+  "name": "@foxxmd/youtube-music-ts-api",
+  "version": "1.6.1",
   "description": "An unofficial YouTube Music API written in TypeScript for easy integration into your projects",
   "main": "build/exports.js",
   "types": "build/exports.d.ts",
